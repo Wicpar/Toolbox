@@ -66,7 +66,7 @@ public class GUI
 				Main.ClassicSinkingSim.getInstance().getGround().h = value;
 			}
 		}));
-		b.add(makeSlider(0, 100, 0.1, "Water Heavyness", new Value()
+		b.add(makeSlider(-100, 1000, 0.01, "Water weight", new Value()
 		{
 			@Override
 			public int getValue()
