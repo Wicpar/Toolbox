@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="WicparBase">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseLibs/WicparBase.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/BaseLibs/WicparBase.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/BaseLibs/WicparBase.jar!/" />
+    </SOURCES>
+  </library>
+</component>

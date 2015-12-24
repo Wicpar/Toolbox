@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_05-b13 (Oracle Corporation)
+Plugin-Id: BasicToolbox
+Plugin-Class: com.wicpar.basictoolbox.Main
+Plugin-Version: 0.0.1
+Plugin-Provider: Frederic Nieto
+Plugin-Dependencies: SinkingSimulatorClassic
+

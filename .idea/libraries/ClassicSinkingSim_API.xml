@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ClassicSinkingSim API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseLibs/ClassicSinkingSim API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
